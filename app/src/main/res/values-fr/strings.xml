@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DispositionsBoutonsZonesDeTexte1</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="users_name_edit_text">Votre Nom</string>
+    <string name="sky_blue_question">Est le ciel blue?</string>
+    <string name="answer_yes_button">Oui</string>
+    <string name="answer_no_button">Non</string>
+</resources>
